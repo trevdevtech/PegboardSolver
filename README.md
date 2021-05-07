@@ -1,5 +1,5 @@
 # PegboardSolver
-A progam to find a solution for the Pegboard given an initial Pegboard state.
+A progam to find a solution for the Pegboard given an initial Pegboard state. The state space in which the solution might be found can be traversed in a breadth-first, depth-first, greedy, or A-Star manner.
 
 ## Requirements
 C++11
