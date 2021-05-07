@@ -1,19 +1,19 @@
 # PegboardSolver
 A progam to find a solution for the Pegboard given an initial Pegboard state.
 
-##Requirements
+## Requirements
 C++11
 
 ## Usage
 ./peg [inputfile] [bfs, dfs, greedy, astar]
 
-##Compile
+## Compile
 
 ```bash
 g++ -o peg -std=c++11 pegBoardSolver.cpp
 ```
 
-##Run/Execute
+## Run/Execute
 
 ```bash
 ./peg input.txt bfs
